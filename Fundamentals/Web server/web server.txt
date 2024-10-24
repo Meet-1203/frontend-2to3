@@ -1,0 +1,5 @@
+What is Web server?
+A web server is computer software and underlying hardware that accepts requests via HTTP ot its secure variant HTTPS.
+A web server can also accept and store resources sent from the user agent if configured to do so.
+The hardware used to run a web server can vary according to the volume of requests that it needs to handle.
+A high-traffic Internet might handle requests with hundreds of servers that run on racks of high-speed computers.

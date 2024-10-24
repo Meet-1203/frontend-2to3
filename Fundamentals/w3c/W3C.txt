@@ -1,0 +1,7 @@
+What is W3C?
+The W3C is the main international standards organisation for the World Wide Web.
+Founded in 1994 and led by Tim Berners-Lee.
+The consortium is made up of member organisations that maintain full-time staff working
+ together in the development of standards for the World Wide Web .
+ W3C's primary activity is to develop protocols and guidelines that ensure long-term growth of the Web.
+An example of W3C standard is Web Browsers.

@@ -1,0 +1,10 @@
+What is URL?
+Full form :Uniform Resource Locator.
+It is a refrence (an address)to a resource on the internet.
+URL consist of multiple parts--including a protocol and domain name--
+   that tell web browsers how and where to retrive a resource.
+HTTP or HTTPS.It's a network communication protocol connecting web servers and web browsers.
+www.Also called a subdomain, it's the part before a URL's first dot.
+URL's aree important for two ways main reasons: firstly,because they help us organise and find things on the internet;secondly,because they define the URL structure of a website.
+Having a good URL structure is important to make sure users can easily navigate your site and for ranking well in search engines.
+it is used to specify addresses on the World Wide Web.   
